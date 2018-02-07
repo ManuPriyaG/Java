@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring MVC Login Page</title>
+<title>Spring MVC Login Page to aws</title>
 </head>
 <body>
 <h1>User Login/Registration</h1>
